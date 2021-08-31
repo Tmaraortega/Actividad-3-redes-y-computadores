@@ -3,3 +3,4 @@ Repositorio Cliente servidor con socket (Node.js, Socket.io) y Cliente servidor 
 
 - Mara Sofia Torres Ortega (Creador)
 - Yarlis Xilene Garcia (colaborador)
+- Gregorio Perez Valencia (colaborador)
